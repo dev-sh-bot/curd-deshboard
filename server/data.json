@@ -1,0 +1,62 @@
+[
+    {
+        "name": "John Doe",
+        "username": "john.doe",
+        "email": "john.doe@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Alice Smith",
+        "username": "alice.smith",
+        "email": "alice.smith@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Bob Johnson",
+        "username": "bob.johnson",
+        "email": "bob.johnson@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Emily Davis",
+        "username": "emily.davis",
+        "email": "emily.davis@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Michael Brown",
+        "username": "michael.brown",
+        "email": "michael.brown@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Emma Wilson",
+        "username": "emma.wilson",
+        "email": "emma.wilson@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Daniel Taylor",
+        "username": "daniel.taylor",
+        "email": "daniel.taylor@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Sophia Miller",
+        "username": "sophia.miller",
+        "email": "sophia.miller@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Liam Davis",
+        "username": "liam.davis",
+        "email": "liam.davis@example.com",
+        "profilePicture": "/uploads/default.png"
+    },
+    {
+        "name": "Olivia Johnson",
+        "username": "olivia.johnson",
+        "email": "olivia.johnson@example.com",
+        "profilePicture": "/uploads/default.png"
+    }
+]
